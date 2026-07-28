@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devtyagi7/DSA_Problems/tree/master/0001-two-sum) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Devtyagi7/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devtyagi7/DSA_Problems/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Devtyagi7/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
