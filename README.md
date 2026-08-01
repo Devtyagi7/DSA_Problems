@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devtyagi7/DSA_Problems/tree/master/0231-power-of-two) |
+| [3516-find-closest-person](https://github.com/Devtyagi7/DSA_Problems/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
