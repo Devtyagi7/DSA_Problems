@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devtyagi7/DSA_Problems/tree/master/0001-two-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devtyagi7/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Devtyagi7/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devtyagi7/DSA_Problems/tree/master/0231-power-of-two) |
+| [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [3516-find-closest-person](https://github.com/Devtyagi7/DSA_Problems/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devtyagi7/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
