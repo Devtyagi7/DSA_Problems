@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3731-find-missing-elements](https://github.com/Devtyagi7/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/Devtyagi7/DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Devtyagi7/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Devtyagi7/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
