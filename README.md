@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devtyagi7/DSA_Problems/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devtyagi7/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/Devtyagi7/DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Devtyagi7/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Devtyagi7/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devtyagi7/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Counting
 |  |
@@ -70,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
