@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devtyagi7/DSA_Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Devtyagi7/DSA_Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Devtyagi7/DSA_Problems/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Devtyagi7/DSA_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Devtyagi7/DSA_Problems/tree/master/0075-sort-colors) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devtyagi7/DSA_Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Devtyagi7/DSA_Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Devtyagi7/DSA_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Devtyagi7/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
