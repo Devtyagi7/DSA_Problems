@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Devtyagi7/DSA_Problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Devtyagi7/DSA_Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Devtyagi7/DSA_Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Devtyagi7/DSA_Problems/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [3516-find-closest-person](https://github.com/Devtyagi7/DSA_Problems/tree/master/3516-find-closest-person) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Devtyagi7/DSA_Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Devtyagi7/DSA_Problems/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devtyagi7/DSA_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
