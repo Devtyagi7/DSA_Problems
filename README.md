@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devtyagi7/DSA_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Devtyagi7/DSA_Problems/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devtyagi7/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devtyagi7/DSA_Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Devtyagi7/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devtyagi7/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Devtyagi7/DSA_Problems/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devtyagi7/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
