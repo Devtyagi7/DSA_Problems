@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Devtyagi7/DSA_Problems/tree/master/0231-power-of-two) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
