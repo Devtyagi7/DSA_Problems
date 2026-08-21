@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Devtyagi7/DSA_Problems/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devtyagi7/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Devtyagi7/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devtyagi7/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Devtyagi7/DSA_Problems/tree/master/0392-is-subsequence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Counting
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Devtyagi7/DSA_Problems/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
