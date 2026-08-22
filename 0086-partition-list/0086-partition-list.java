@@ -25,7 +25,6 @@ class Solution {
             }
             t=t.next;
         }
-        t1.next=null;
         t2.next=null;
         t1.next=d2.next;
         return d1.next;
