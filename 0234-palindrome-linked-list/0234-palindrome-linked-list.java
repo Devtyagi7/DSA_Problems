@@ -23,19 +23,18 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode temp=slow.next;
-        ListNode curr=temp, prev=null, frwd=null;
+        ListNode curr=slow.next, prev=null, frwd=null;
         while(curr!=null){
             frwd=curr.next;
             curr.next=prev;
             prev=curr;
             curr=frwd;
         }
-        ListNode temp1=head;
+        ListNode temp=head;
         while(prev!=null){
-            if(temp1.val!=prev.val) return false;
+            if(temp.val!=prev.val) return false;
             prev=prev.next;
-            temp1=temp1.next;
+            temp=temp.next;
         }
         return true;
     }
