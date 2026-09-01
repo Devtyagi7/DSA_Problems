@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Devtyagi7/DSA_Problems/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -173,10 +176,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Devtyagi7/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
