@@ -64,6 +64,7 @@ class Solution {
             t=t.next;
         }
         t1.next=null;
+        t2.next=null;
     }
     public Node copyRandomList(Node head1) {
         // Step:1 creating deep copy without random
