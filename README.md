@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Devtyagi7/DSA_Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Devtyagi7/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Devtyagi7/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devtyagi7/DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tournament Sort
 |  |
