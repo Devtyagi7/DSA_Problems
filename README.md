@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devtyagi7/DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Devtyagi7/DSA_Problems/tree/master/1512-number-of-good-pairs) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Devtyagi7/DSA_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devtyagi7/DSA_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3731-find-missing-elements](https://github.com/Devtyagi7/DSA_Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Devtyagi7/DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Devtyagi7/DSA_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -217,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Devtyagi7/DSA_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
