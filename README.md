@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Devtyagi7/DSA_Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Devtyagi7/DSA_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Devtyagi7/DSA_Problems/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devtyagi7/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devtyagi7/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devtyagi7/DSA_Problems/tree/master/0169-majority-element) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devtyagi7/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devtyagi7/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Devtyagi7/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0503-next-greater-element-ii) |
@@ -224,6 +226,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devtyagi7/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Devtyagi7/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Devtyagi7/DSA_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Devtyagi7/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
